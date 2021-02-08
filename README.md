@@ -18,17 +18,17 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ```bash 
 
     # Clonar o repositório 
-    $ git clone https://github.com/ghdss25/Scp_Desktop.git
+    $ git clone https://github.com/ghdss25/Acad_System.git
     
     # Apertar o Botão de Clonar 
     
     # Zipar o projeto na sua Àrea de Trabalho
     
-    # e importar para a IDE do NetBeans 
+    # e importar para a IDE do Eclipse 
     
     # Obter o programa do Mysql Workbench 
     
-    # Importar as tabelas do Banco de Dados da SCP 
+    # Importar as tabelas do Banco de Dados da Acadsystem 
     
     # Jogar no Programa do Mysql WorkBench 
     
