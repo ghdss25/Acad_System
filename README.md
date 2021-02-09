@@ -46,8 +46,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
     
 ```
 
-## Apresentação do Projeto - Sistema de Cadastro de Produtos simples em Java
-
+## Apresentação do Projeto - Sistema de Cadastro de Artigos e Publicações
 <h1 align = "center">
     <img src="Acadsystem.gif">
 
